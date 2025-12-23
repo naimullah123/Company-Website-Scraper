@@ -15,13 +15,13 @@ The goal is not exhaustive scraping, but reliable extraction of business-relevan
 
 The system prioritizes truthful extraction, explicitly marking data as "Not found" when unavailable.
 
-Objective
+# Objective
 
-Input:
+# Input:
 
 A single company website URL (publicly accessible)
 
-Output:
+# Output:
 
 A structured JSON-like object containing:
 
@@ -38,17 +38,17 @@ A structured JSON-like object containing:
 
 *Scrape metadata
 
-Features
+# Features
 
 Scrapes only publicly accessible pages (no logins)
 
 Crawls a maximum of 10–15 internal pages
 
-Prioritizes business-critical pages:
+# Prioritizes business-critical pages:
 
 /about, /products, /solutions, /industries, /pricing, /contact, /careers
 
-Handles:
+# Handles:
 
 Timeouts
 
@@ -58,7 +58,7 @@ Missing pages
 
 Logs limitations transparently (e.g., JS-heavy sites)
 
-Tech Stack
+# Tech Stack
 
 Python 3.9+
 
