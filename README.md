@@ -28,17 +28,40 @@ A structured JSON-like object containing:
 *Company identity
 
 *Business summary
+
+
 *Evidence & proof signals
+
 *Contact & location details
+
 *Hiring signals
+
 *Scrape metadata
+
 Features
+
 Scrapes only publicly accessible pages (no logins)
+
 Crawls a maximum of 10–15 internal pages
+
 Prioritizes business-critical pages:
+
 /about, /products, /solutions, /industries, /pricing, /contact, /careers
+
 Handles:
+
 Timeouts
+
 Broken links
+
 Missing pages
+
 Logs limitations transparently (e.g., JS-heavy sites)
+
+Tech Stack
+
+Python 3.9+
+
+requests
+
+BeautifulSoup4
