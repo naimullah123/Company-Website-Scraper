@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "company_name": "",
+    "website_url": "",
+    "tagline": ""
+  },
+  "business_summary": {
+    "what_they_do": "",
+    "primary_offerings": [],
+    "target_customers": []
+  },
+  "evidence_proof": {
+    "key_pages_detected": [],
+    "signals_found": [],
+    "social_links": []
+  },
+  "contact_location": {
+    "emails": [],
+    "phones": [],
+    "address": "",
+    "contact_page": ""
+  },
+  "team_hiring": {
+    "careers_page": "",
+    "roles_detected": []
+  },
+  "metadata": {
+    "timestamp": "",
+    "pages_crawled": [],
+    "errors_or_fallbacks": []
+  }
+}

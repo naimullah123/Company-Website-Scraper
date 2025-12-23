@@ -1,0 +1,22 @@
+Demo Run 2
+
+Input: https://razorpay.com
+
+Output (excerpt):
+
+{
+  "identity": {
+    "company_name": "Razorpay | Payments Solution",
+    "website_url": "https://razorpay.com",
+    "tagline": "Powering digital payments"
+  },
+  "business_summary": {
+    "what_they_do": "Razorpay provides online payment and banking solutions for businesses.",
+    "primary_offerings": ["Payment Gateway", "RazorpayX", "Subscriptions"],
+    "target_customers": ["Startups", "SMEs", "Online businesses"]
+  },
+  "team_hiring": {
+    "careers_page": "https://razorpay.com/careers/",
+    "roles_detected": []
+  }
+}

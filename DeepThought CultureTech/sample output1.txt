@@ -1,0 +1,23 @@
+Demo Run 1
+
+Input: https://www.zoho.com
+
+Output (excerpt):
+
+{
+  "identity": {
+    "company_name": "Zoho | Cloud Software Suite",
+    "website_url": "https://www.zoho.com",
+    "tagline": "Not found"
+  },
+  "business_summary": {
+    "what_they_do": "Zoho provides a comprehensive suite of cloud-based business software.",
+    "primary_offerings": ["CRM", "Finance", "HR", "Analytics"],
+    "target_customers": ["SMEs", "Enterprises"]
+  },
+  "evidence_proof": {
+    "key_pages_detected": ["about", "products", "careers", "contact"],
+    "signals_found": ["Global user base", "Enterprise clients"],
+    "social_links": ["LinkedIn", "Twitter"]
+  }
+}
